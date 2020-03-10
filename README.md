@@ -4,7 +4,7 @@ Clover Config EFI File for macOS Mojave
 
 OSXiNFO Link : https://osxinfo.net/konu/basarili-kurulum-monster-abra-a7-v6-1-mojave.8678/
 
-My Hardware,
+# My Hardware,
 
 Intel Core i7-4720HQ, ✅.   
 Intel HD Graphics 4600, ✅.    
