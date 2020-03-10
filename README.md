@@ -5,12 +5,12 @@ OSXiNFO Link : https://osxinfo.net/konu/basarili-kurulum-monster-abra-a7-v6-1-mo
 
 My Hardware,
 
-Intel Core i7-4720HQ, ✅. 
-Intel HD Graphics 4600, ✅.  
+Intel Core i7-4720HQ, ✅.   
+Intel HD Graphics 4600, ✅.    
 nVIDIA GeForce GTX 960M,⛔️   
 Realtek ALC269, ✅   
 Intel(R) Dual Band Wireless-AC 3160, ✅(BT Works)   
-Realtek RTL8168/8111, ✅. 
+Realtek RTL8168/8111, ✅.   
 ELAN0403, ✅   
 Monster Abra A7 V6.1 monsternotebook.com.tr/abra/MONSTER-ABRA-A7-V6-1.html 
 
