@@ -1,5 +1,6 @@
 # Monster-Abra-A7-V6-Mojave-Clover-EFI
-Clover Config EFI File for macOS Mojave
+Clover Config EFI File for macOS Mojave.  
+Status:Stable/Final
 
 
 OSXiNFO Link : https://osxinfo.net/konu/basarili-kurulum-monster-abra-a7-v6-1-mojave.8678/
