@@ -1,7 +1,7 @@
 # Monster-Abra-A7-V6-Mojave-Clover-EFI
 Clover Config EFI File for macOS Mojave
 
-![ScreenShot](https://osxinfo.net/eklentiler/ekran-resmi-2020-03-09-09-33-24-png.17083/)
+
 OSXiNFO Link : https://osxinfo.net/konu/basarili-kurulum-monster-abra-a7-v6-1-mojave.8678/
 
 My Hardware,
@@ -15,8 +15,11 @@ Realtek RTL8168/8111, ✅.
 ELAN0403, ✅   
 Monster Abra A7 V6.1 monsternotebook.com.tr/abra/MONSTER-ABRA-A7-V6-1.html 
 
-# What works?  
-Lan,   
+# What works?
+Card Reader,  
+Lan,  
+Battery Indicator,  
+Screen Brightness,   
 Touchpad(Some gestures with multitouch),      
 Realtek ALC269(With AppleALC),    
 Microphone (But not good),      
@@ -27,7 +30,5 @@ Camera,
 
 # Not Work,
 Wifi,  
-Nvidia GPU,
-Card Reader,    
-Battery Indicator,  
-Screen Brightness,
+Nvidia GPU,  
+
