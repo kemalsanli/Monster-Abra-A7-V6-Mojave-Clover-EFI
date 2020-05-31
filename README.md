@@ -1,6 +1,6 @@
 # Monster-Abra-A7-V6-Mojave-Clover-EFI
 Clover Config EFI File for macOS Mojave.  
-Status:Stable/Final.
+Status:Stable/Final.    
 
 This Config is USABLE FOR CLEVO N170SD , XMG 705 , ONE K73-5O
 
@@ -26,12 +26,12 @@ Touchpad(Some gestures with multitouch),
 Realtek ALC269(With AppleALC),    
 Microphone (Good Enough),      
 Usb ports(Patched with Kext),    
-Intel HD 4600 with Hardware Acceleration,
-HDMI/DP Output,
-HDMI/DP Audio(You need to go to sleep and wake),  
-Bluetooth(https://github.com/zxystd/IntelBluetoothFirmware),
-Wifi(it works with https://github.com/zxystd/itlwm but you need to do additional steps.),  
-Camera,  
+Intel HD 4600 with Hardware Acceleration,    
+HDMI/DP Output,    
+HDMI/DP Audio(You need to go to sleep and wake),    
+Bluetooth(https://github.com/zxystd/IntelBluetoothFirmware),    
+Wifi(it works with https://github.com/zxystd/itlwm but you need to do additional steps.),      
+Camera,      
 
 # Not Work,  
 Nvidia GPU(-wegnoegpu),  
