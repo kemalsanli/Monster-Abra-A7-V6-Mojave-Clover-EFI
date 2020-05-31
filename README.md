@@ -12,7 +12,7 @@ Intel Core i7-4720HQ, ✅.
 Intel HD Graphics 4600, ✅.    
 nVIDIA GeForce GTX 960M,⛔️   
 Realtek ALC269, ✅   
-Intel(R) Dual Band Wireless-AC 3160, ✅(Now BT Works with Firmware thanks to @zxyst,)   
+Intel(R) Dual Band Wireless-AC 3160, ✅(Now BT Works with Firmware thanks to @zxyst)   
 Realtek RTL8168/8111, ✅.   
 ELAN0403, ✅   
 Monster Abra A7 V6.1 monsternotebook.com.tr/abra/MONSTER-ABRA-A7-V6-1.html 
