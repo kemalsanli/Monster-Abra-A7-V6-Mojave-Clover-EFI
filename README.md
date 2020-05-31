@@ -1,6 +1,7 @@
 # Monster-Abra-A7-V6-Mojave-Clover-EFI
 Clover Config EFI File for macOS Mojave.  
-Status:Stable/Final
+Status:Stable/Final.
+
 This Config is USABLE FOR CLEVO N170SD , XMG 705, ONE K73-5O
 
 OSXiNFO Link : https://osxinfo.net/konu/basarili-kurulum-monster-abra-a7-v6-1-mojave.8678/
